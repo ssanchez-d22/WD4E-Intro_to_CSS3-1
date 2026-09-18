@@ -1,4 +1,42 @@
 body{
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 150%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
+  font-size: 200%;
+  background-color:rgb(238, 224, 248);
+}
+
+li{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    height: 120px;
+    line-height: 110px;
+}
+
+header{
+  background-color: rgb(235, 207, 233);
+  text-align: center;
+}
+
+nav{
+  background-color: rgba(207, 83, 207, 0.548);
+}
+
+main{
+  background-color: rgb(228, 187, 204);
+  font-size: 125%;
+}
+
+footer{
+  background-color: rgb(228, 152, 152);
+}
+
+h1{
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgba(78, 18, 116, 0.836);
+  font-size: 260%;
+}
+
+p{
+  line-height: 2;
 }
